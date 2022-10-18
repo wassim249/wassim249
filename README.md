@@ -2,13 +2,13 @@
 
 <br>
 
-<p>TODO : my description</p>
+<!-- <p>TODO : my description</p> -->
 
 
-   <p align="left">
+<p align="left">
       <a href="https://github.com/wassim249?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wassim249?color=68FC7F&style=for-the-badge&labelColor=68FC7F&logo=star"/></a>
-   </p>
+</p>
 
 ---
 
@@ -16,6 +16,7 @@
 <br>
 
 ### <img align="bottom" src="./icons/programming.svg"  alt="favorite tools" width="20px" /> _Programming and markup languages_
+<p>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -23,16 +24,19 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fphp%2Fphp_PNG18.png&f=1&nofb=1&ipt=b246fb72e4d78b7d8ef05320c1826f444d7f1a6b2bf3bc63e4591eff5aa1b210&ipo=images" />
-<br> <br>
+</p>
+<br>
 
 #
 ### <img align="bottom" src="./icons/frameworks.svg"  alt="favorite tools" width="20px" /> _Frameworks and libraries_
+<p>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnext-logo-png-build-a-universal-javascript-app-with-next-js-280.png&f=1&nofb=1&ipt=a28f9935c34ca540ddb1f7d67732159d4c59dcacbf024c8b4d6bce45775afcba&ipo=images"/>
 <img align="center" alt="Symfony" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsymfony.com%2Flogos%2Fsymfony_white_03.png&f=1&nofb=1&ipt=1b0f8743e6f3b6998ab8641ab1441258c506a10459df0cf04c10672adbcaa217&ipo=images"/>
 <img align="center" alt="Laravel" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F2150926.png&f=1&nofb=1&ipt=6c0e614787d286489263332d4523bedad1a3275ca6a6ef17f136b4178acfe0e4&ipo=images"/>
-<br><br>
+</p>
+
 
 #
 ### <img align="bottom" src="./icons/tools.svg"  alt="favorite tools" width="20px" /> _Software and tools_
@@ -45,15 +49,17 @@
 <img align="center" alt="Postman" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fww1.prweb.com%2Fprfiles%2F2018%2F10%2F05%2F15812110%2Fpostman-logo-vert-2018.png&f=1&nofb=1&ipt=da17c254981ef1502c2b24777491b17ba8fd334d0b89425358f3584724dc5c61&ipo=images" />
 <img align="center" alt="Adobe" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe-Emblem.png&f=1&nofb=1&ipt=53802f7654438a8c862679ea5287c26d122e91109c3375032d65c4e3ee769a29&ipo=images" />
 <img align="center" alt="Vs code" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmobilemancerblog.blob.core.windows.net%2Fblog%2F2020%2F08%2Fvs-code-logo-transp.png&f=1&nofb=1&ipt=0a06a119a2ddf372cbb72abbcaa1e17701fd43c45af9431110b4b3d19727c8b0&ipo=images" />
-<br><br>
+<br>
 
 #
 ### <img align="bottom" src="./icons/db.svg"  alt="favorite tools" width="20px" /> _Databases_
-<br>
+
 <img align="center" alt="Mongodb" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Flogo-mongodb-png-mongo-db-badge-sticker-600.png&f=1&nofb=1&ipt=76d99bda01daade91b809080cf65df4bc02bed76c044487ca576ad8f1efb3f70&ipo=images" />
 <img align="center" alt="MySql" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMySQL_logo_logotype.png&f=1&nofb=1&ipt=184f61c38e0b0a3b765d1f025d91cd861ca160f641ba19052944b6a1fdb09f46&ipo=images" />
 <img align="center" alt="OracleDB" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fallvectorlogo.com%2Fimg%2F2017%2F02%2Foracle-database-logo.png&f=1&nofb=1&ipt=cb67ccced94b52fb6d949fbe9c5826ab7a72be8874f95f9697b2a9b9d227f608&ipo=images" />
 <br>
+
+#
 <br>
 <br>
 
@@ -86,4 +92,4 @@
 
 #
 
-[website]: https://wassimelbakkouri.com
+[website]: https://fkcodes.com
