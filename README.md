@@ -40,6 +40,7 @@
 
 #
 ### <img align="bottom" src="./icons/tools.svg"  alt="favorite tools" width="20px" /> _Software and tools_
+<p>
 <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -48,15 +49,16 @@
 <img align="center" alt="Postman" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fww1.prweb.com%2Fprfiles%2F2018%2F10%2F05%2F15812110%2Fpostman-logo-vert-2018.png&f=1&nofb=1&ipt=da17c254981ef1502c2b24777491b17ba8fd334d0b89425358f3584724dc5c61&ipo=images" />
 <img align="center" alt="Adobe" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe-Emblem.png&f=1&nofb=1&ipt=53802f7654438a8c862679ea5287c26d122e91109c3375032d65c4e3ee769a29&ipo=images" />
 <img align="center" alt="Vs code" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmobilemancerblog.blob.core.windows.net%2Fblog%2F2020%2F08%2Fvs-code-logo-transp.png&f=1&nofb=1&ipt=0a06a119a2ddf372cbb72abbcaa1e17701fd43c45af9431110b4b3d19727c8b0&ipo=images" />
-<br>
+</p>
+
 
 #
 ### <img align="bottom" src="./icons/db.svg"  alt="favorite tools" width="20px" /> _Databases_
-
+<p>
 <img align="center" alt="Mongodb" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Flogo-mongodb-png-mongo-db-badge-sticker-600.png&f=1&nofb=1&ipt=76d99bda01daade91b809080cf65df4bc02bed76c044487ca576ad8f1efb3f70&ipo=images" />
 <img align="center" alt="MySql" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMySQL_logo_logotype.png&f=1&nofb=1&ipt=184f61c38e0b0a3b765d1f025d91cd861ca160f641ba19052944b6a1fdb09f46&ipo=images" />
 <img align="center" alt="OracleDB" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fallvectorlogo.com%2Fimg%2F2017%2F02%2Foracle-database-logo.png&f=1&nofb=1&ipt=cb67ccced94b52fb6d949fbe9c5826ab7a72be8874f95f9697b2a9b9d227f608&ipo=images" />
-<br>
+</p>
 
 #
 <br>
