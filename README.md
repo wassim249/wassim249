@@ -40,11 +40,10 @@
 
 #
 ### <img align="bottom" src="./icons/tools.svg"  alt="favorite tools" width="20px" /> _Software and tools_
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-rQ70BFa26fo%2FXuz5obVh5TI%2FAAAAAAAAVU8%2FsPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg%2Fs1600%2FjenkinsLogo1.png&f=1&nofb=1&ipt=9e4d762d92b1d969f77b1dba1f0860ce4dec67e52b5001cf5b974258c273417d&ipo=images" />
+<img align="center" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-rQ70BFa26fo%2FXuz5obVh5TI%2FAAAAAAAAVU8%2FsPq_JiH52xUkqk2zFV5wqWrrotaVp2sOACK4BGAsYHg%2Fs1600%2FjenkinsLogo1.png&f=1&nofb=1&ipt=9e4d762d92b1d969f77b1dba1f0860ce4dec67e52b5001cf5b974258c273417d&ipo=images" />
 <img align="center" alt="SonarQube" width="80px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwiki.eclipse.org%2Fimages%2F8%2F88%2FSonarqube.png&f=1&nofb=1&ipt=5d4ba4968a050283cb93c52f78ba9cd8292177fc6921bce2bb405e3d20b44e99&ipo=images" />
 <img align="center" alt="Postman" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fww1.prweb.com%2Fprfiles%2F2018%2F10%2F05%2F15812110%2Fpostman-logo-vert-2018.png&f=1&nofb=1&ipt=da17c254981ef1502c2b24777491b17ba8fd334d0b89425358f3584724dc5c61&ipo=images" />
 <img align="center" alt="Adobe" width="40px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F06%2FAdobe-Emblem.png&f=1&nofb=1&ipt=53802f7654438a8c862679ea5287c26d122e91109c3375032d65c4e3ee769a29&ipo=images" />
