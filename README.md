@@ -66,8 +66,14 @@
 
 ## <img align="bottom" src="./icons/stats.svg"  alt="favorite tools" width="40px" />  **Statistics**
 #
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=wassim249&show_icons=true&theme=vue-dark&border_color=3DA47A&border_radius=8)
+
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=wassim249&theme=vue-dark&border_radius=8&border=3DA47A)](https://git.io/streak-stats)
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassim249&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
@@ -78,17 +84,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/wassim-elbakkouri"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1&ipt=70eafae67dc9cf5578cf9ae4999ed76fadde13dd88444613f5707ea9963dc646&ipo=images"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/wassim-elbakkouri"><img width="32px" alt="Discord" title="Discord" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnggrid.com%2Fwp-content%2Fuploads%2F2021%2F05%2FDiscord-Logo-Circle-2048x2048.png&f=1&nofb=1&ipt=5c1cbd090a4a3a351040319335bd21d68ae8a556fd900315a58379d6820448fc&ipo=images"/></a>
+  <a href="https://discordapp.com/users/1800"><img width="32px" alt="Discord" title="Discord" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnggrid.com%2Fwp-content%2Fuploads%2F2021%2F05%2FDiscord-Logo-Circle-2048x2048.png&f=1&nofb=1&ipt=5c1cbd090a4a3a351040319335bd21d68ae8a556fd900315a58379d6820448fc&ipo=images"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:wassim.elbakkouri@yahoo.com"><img width="32px" alt="Email" title="Email" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fminimal-utility%2F512%2Fmail.png&f=1&nofb=1&ipt=78f5234f1d818257e112a1d819c26d6ffb0666ae199eac7e8ca786f349d0289b&ipo=images"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.upwork.com/freelancers~016a67fdc91b0862ae?viewMode=1"><img width="32px" alt="Upwork" title="Upwork" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsoftonix.org%2Fimg%2Fupwork-small-logo.png&f=1&nofb=1&ipt=0290802d44c9e402ddc4ae6356ce4248ab171d76cf690c665465f75898df5bd7&ipo=images"/></a>
+  <a href="https://www.upwork.com/freelancers/~016a67fdc91b0862ae"><img width="32px" alt="Upwork" title="Upwork" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsoftonix.org%2Fimg%2Fupwork-small-logo.png&f=1&nofb=1&ipt=0290802d44c9e402ddc4ae6356ce4248ab171d76cf690c665465f75898df5bd7&ipo=images"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Website" title="Website" src="./icons/webste.svg"/></a>
+  <a href="#"><img width="32px" alt="Website" title="Website" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Freal-estate-vol-2-2-3%2F65%2F94-512.png&f=1&nofb=1&ipt=b0ca8cc2f9ecc852566f42c0341b86bee7077e46de2b71ed15c6b902f3dcf229&ipo=images"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-
-  
 </p>
 
 #
