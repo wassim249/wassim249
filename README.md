@@ -86,6 +86,8 @@
 
 - [**[DEEPLEARNING.AI] Machine Learning specialization**](https://coursera.org/verify/specialization/QFGAJYQYGWWV)
 - [**[DEEPLEARNING.AI] Neural Networks and Deep Learning**](https://coursera.org/verify/VEBP77VB4D56)
+- [**[DEEPLEARNING.AI] Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**](https://www.coursera.org/account/accomplishments/certificate/2B5D5GBHE4HG)
+- [**[DEEPLEARNING.AI] Convolutional Neural Networks in TensorFlow**](https://www.coursera.org/account/accomplishments/certificate/XKAR6BQQ6XBM)
 
 #
 
