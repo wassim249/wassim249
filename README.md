@@ -50,8 +50,7 @@ wassim.elbakkouri@yahoo.com.
 </p>
 <br>
 
-### <img align="bottom" src="./icons/programming.svg"  alt="favorite tools" width="20px" /> **Data science and machine
-learning**
+### <img align="bottom" src="./icons/programming.svg"  alt="favorite tools" width="20px" /> **Data science and machine learning**
 
 <p>
   <a href="https://skillicons.dev">
